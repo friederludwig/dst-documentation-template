@@ -7,8 +7,8 @@ execute:
 book:
   page-navigation: true
   title: "Template"
-  site-url: "https://ORGNAME.github.io/REPONAME/" # replace ORGNAME and REPONAME
-  repo-url: https://github.com/ORGNAME/REPONAME # replace ORGNAME and REPONAME
+  site-url: "https://friederludwig.github.io/dst-documentation-template/" # replace ORGNAME and REPONAME
+  repo-url: https://github.com/friederludwig/dst-documentation-template # replace ORGNAME and REPONAME
   repo-actions: [edit, issue]
   open-graph: true
   image: "/images/logo.png"

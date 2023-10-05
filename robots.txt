@@ -1,0 +1,1 @@
+Sitemap: https://friederludwig.github.io/dst-documentation-template/sitemap.xml
